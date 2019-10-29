@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-rest-app/static/css/main.7071cfab.chunk.css",
+    "main.js": "/react-rest-app/static/js/main.00399332.chunk.js",
+    "main.js.map": "/react-rest-app/static/js/main.00399332.chunk.js.map",
+    "runtime-main.js": "/react-rest-app/static/js/runtime-main.c96ff51b.js",
+    "runtime-main.js.map": "/react-rest-app/static/js/runtime-main.c96ff51b.js.map",
+    "static/css/2.510409cd.chunk.css": "/react-rest-app/static/css/2.510409cd.chunk.css",
+    "static/js/2.b4fdfd90.chunk.js": "/react-rest-app/static/js/2.b4fdfd90.chunk.js",
+    "static/js/2.b4fdfd90.chunk.js.map": "/react-rest-app/static/js/2.b4fdfd90.chunk.js.map",
+    "index.html": "/react-rest-app/index.html",
+    "precache-manifest.8c6baa30a6d0ea0e24fd75505f83238e.js": "/react-rest-app/precache-manifest.8c6baa30a6d0ea0e24fd75505f83238e.js",
+    "service-worker.js": "/react-rest-app/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/react-rest-app/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.7071cfab.chunk.css.map": "/react-rest-app/static/css/main.7071cfab.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c96ff51b.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.b4fdfd90.chunk.js",
+    "static/css/main.7071cfab.chunk.css",
+    "static/js/main.00399332.chunk.js"
+  ]
+}
