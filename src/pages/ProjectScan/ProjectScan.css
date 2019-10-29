@@ -1,0 +1,10 @@
+.ProjectAnalysis {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ProjectAnalysis button {
+    padding: 10px;
+    cursor: pointer;
+}

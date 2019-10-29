@@ -1,0 +1,29 @@
+.Nav {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.Nav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 200px;
+    margin-left: 40px;
+}
+
+
+.Nav ul li {
+    margin-right: 10px;
+}
+
+.Nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #282c34;
+}
+
+.Nav ul li a.active {
+    text-decoration: underline;
+}
