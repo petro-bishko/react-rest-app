@@ -12,10 +12,6 @@ const Nav: React.FC = () => {
     {
       title: 'Home',
       link: '/'
-    },
-    {
-      title: 'Upload project',
-      link: 'project-analysis'
     }
   ];
   return (
@@ -23,7 +19,7 @@ const Nav: React.FC = () => {
       <div className="row">
         <div className="container">
           <nav className="navbar navbar-expand-lg navbar-light  w-100">
-            <a className="navbar-brand" href="/">Checkmarx</a>
+            <a className="navbar-brand" href="/">Logo</a>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav mr-auto">
                 {navList.map((val, index) => {

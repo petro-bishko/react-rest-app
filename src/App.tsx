@@ -1,9 +1,8 @@
 import React from 'react';
 import './App.css';
 import { Switch, Route } from 'react-router-dom';
-import Home from './pages/Home/Home';
-import ProjectAnalysis from './pages/ProjectAnalysis/ProjectAnalysis';
 import Nav from './components/UI/Nav/Nav';
+import ProjectScan from './pages/ProjectScan/ProjectScan';
 
 const App: React.FC = () => {
   return (
@@ -12,8 +11,7 @@ const App: React.FC = () => {
 
       <main role="main">
         <Switch>
-          <Route path="/project-analysis" component={ProjectAnalysis}/>
-          <Route path="/" component={Home}/>
+          <Route path="/" component={ProjectScan}/>
         </Switch>
       </main>
     </React.Fragment>
